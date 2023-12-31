@@ -1,6 +1,7 @@
 # NoteSync - Chrome Extension for Website-Specific Note Taking
 
 NoteSync is a Chrome extension that allows users to take notes specific to individual websites. Whether you want to jot down ideas, remember important information, or simply keep track of thoughts related to a particular website, NoteSync has you covered.
+![NoteSync Logo](https://imgur.com/gallery/Q91fFqi)
 
 ## Features
 
