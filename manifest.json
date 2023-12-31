@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "NoteTracker",
+    "version": "1.0",
+    "description": "A Chrome extension for note-taking and website time tracking.",
+    "browser_action": {
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "NoteTracker"
+    },
+    "permissions": ["storage", "activeTab"],
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  }
+  
